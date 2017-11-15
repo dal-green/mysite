@@ -1,0 +1,54 @@
+.home_container {
+  background-color: #AFD4C0;
+  height: 100vh;
+}
+
+.navbar {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 75px;
+  justify-content: center;
+  background-color: #519872;
+}
+
+.navbar1 {
+  width: 50%;
+  min-width: 759px;
+  justify-content: space-between;
+  padding: 0 20px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}
+
+.followus {
+  cursor: pointer;
+}
+
+.appointments {
+  cursor: pointer;
+}
+
+.aboutus {
+  cursor: pointer;
+}
+
+.gallery {
+  cursor: pointer;
+}
+
+.login {
+  cursor: pointer;
+}
+
+.appointments {
+  display: flex;
+  color: #black;
+  font-size: 25px;
+  align-items: center;
+  text-align: center;
+}

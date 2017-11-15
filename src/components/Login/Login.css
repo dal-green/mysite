@@ -1,0 +1,78 @@
+.App {
+  background-color: #AFD4C0;
+  height: 100vh;
+}
+
+.registerApp {
+  background-color: white;
+  position: fixed;
+  margin-left: 25%;
+  width:50%;
+  height: 100vh;
+  min-height: 850px;
+  min-width: 850px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /*border: 3px solid black;*/
+}
+
+.housePic {
+  border: 3px solid blue;
+  margin-bottom: 50px;
+}
+
+.userPass1 {
+  border: 3px solid red;
+}
+.userName1 {
+  border: 3px solid orange;
+}
+
+.loginContainer {
+  font-weight: bold;
+}
+
+.authInputHeader {
+  font-size: 25px;
+  margin-bottom: 3px;
+  position: relative;
+  left: -27%;
+}
+
+.authInput {
+  font-size: 25px;
+  width: 70%;
+  margin-bottom: 25px;
+}
+
+.buttons {
+  display: block;
+}
+
+.authLogin {
+  width: 130px;
+  height: 40px;
+  border: none;
+  margin-right: 30px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #8AEA92;
+  color: black;
+  font-weight: bold;
+}
+
+.authRegister {
+  width: 130px;
+  height: 40px;
+  border: none;
+  margin-right: 30px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #3b5249;
+  color: white;
+  font-weight: bold;
+
+
+}

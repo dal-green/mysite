@@ -1,0 +1,11 @@
+.datePickerContainer {
+  margin: auto;
+  width: 175px;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.react-datepicker__time-list-item {
+  margin-left: -30px !important;
+  /*color: black !important;*/
+}
